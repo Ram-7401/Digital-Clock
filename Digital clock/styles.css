@@ -14,12 +14,12 @@
 
 
 button {
-  padding: 20px;
+  padding: 50px;
   background: transparent;
   margin: auto;
   text-shadow: 1px 1px 1px #202020;
   font-family: "Lato", sans-serif;
-  font-size: 18pt;
+  font-size: 32px;
   border: 1px solid lightblue;
   color: lightblue;
 }
